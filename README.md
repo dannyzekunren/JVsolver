@@ -8,3 +8,5 @@ Jsolver- solves J given V,J0,n,Rs,Rsh
 
 
 Vsolver- solves V given J,J0,n,Rs,Rsh
+
+All units are SI unit
